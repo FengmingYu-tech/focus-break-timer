@@ -31,6 +31,11 @@ Windows 可以用：
 python focus_break_timer.py
 ```
 
+也可以双击仓库里的启动脚本：
+
+- macOS：`start_timer_macos.command`
+- Windows：`start_timer_windows.bat`
+
 ## 界面功能
 
 - `开始`：启动计时
