@@ -1,0 +1,3 @@
+# 托盘后台运行所需（可选）
+pystray
+Pillow
